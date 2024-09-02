@@ -23,7 +23,7 @@ Response Display: The generated response is displayed in the Streamlit interface
 
 Clone the Repository:
 git clone https://github.com/kritiajwani/Gemini-Explorer.git
-cd gemini-streamlit-chat](https://github.com/kritiajwani/Gemini-Explorer.git)
+cd gemini-streamlit-chat]
 
 Set Up the Virtual Environment:
 
@@ -42,4 +42,7 @@ After launching the Streamlit application, users can start interacting with the 
 
 Contributing
 We welcome contributions to enhance the platform's functionality and user experience. Please feel free to fork the repository, make your changes, and submit a pull request.
+
+Here's a loom video
+https://www.loom.com/share/3ee80a74b21240239b8f859091f54f32?sid=ee39279e-472c-4a4d-8022-45c3d91284fc 
 
