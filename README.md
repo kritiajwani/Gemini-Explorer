@@ -1,15 +1,19 @@
 **Gemini Chat Interface with Streamlit**
-**Overview**
+
+
 The Gemini Chat Interface is an educational and practical project designed to showcase the capabilities of Google's cutting-edge large language model, Gemini, through an accessible and user-friendly platform built with Streamlit. This interface allows users to explore and interact with advanced language model applications, providing a seamless experience that bridges the gap between complex AI technology and everyday usability.
 
 **Mission**
+
 Our mission is to provide an accessible platform that introduces users to the powerful capabilities of large language models like Gemini. This project serves as both an educational tool and a practical demonstration of how AI can be integrated into user-friendly applications.
 
 **Key Features**
+
 Streamlit Integration: A simple and intuitive interface powered by Streamlit, making it easy for users to interact with the Gemini language model.
 Interactive Chat: Users can engage in conversations with Gemini, exploring its ability to understand and generate human-like responses.
 Educational Tool: Designed to help users and developers understand the practical applications of large language models.
 Customizable Experience: The interface is adaptable, allowing for further customization and expansion to suit various educational or experimental purposes.
+
 **How It Works**
 User Interaction: Users type in prompts or questions into the chat interface.
 Gemini Processing: The input is sent to Google's Gemini language model, which processes the request and generates a response.
